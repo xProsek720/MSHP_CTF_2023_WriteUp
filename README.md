@@ -5,7 +5,9 @@ if You are interested to read about me completing the
 challanges just click on the pictures associated with challange
 ```
 
+Ranking:
 
+![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/ranking.png)
 
 [![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/1/1.png)](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/1_my_guestbook.md)
 
