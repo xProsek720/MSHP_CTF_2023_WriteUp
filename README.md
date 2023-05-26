@@ -1,6 +1,6 @@
 # Short WriteUp of my try in MSHP CTF 2023
 
-Organised by: [Sekurak](https://sekurak.pl/)
+Organized by: [Sekurak](https://sekurak.pl/)
 
 ```
 if You are interested to read about me completing the 
