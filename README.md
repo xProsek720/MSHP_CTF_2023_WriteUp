@@ -21,7 +21,7 @@ challanges just click on the pictures associated with challange
 
 [![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/7/1.png)](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/7_now_thats_xss.md)
 
-[![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/8/1.png)](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/3_stegano_buster.md)
+[![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/8/1.png)](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/8_betrayer.md)
 
 ## Ranking:
 
