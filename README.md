@@ -1,13 +1,11 @@
 # Short WriteUp of my try in MSHP CTF 2023
 
+Organised by: [Sekurak](https://sekurak.pl/)
+
 ```
 if You are interested to read about me completing the 
 challanges just click on the pictures associated with challange
 ```
-
-Ranking:
-
-![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/ranking.png)
 
 [![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/1/1.png)](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/1_my_guestbook.md)
 
@@ -24,3 +22,21 @@ Ranking:
 [![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/7/1.png)](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/7_now_thats_xss.md)
 
 [![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/8/1.png)](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/3_stegano_buster.md)
+
+## Ranking:
+
+![ctf](https://github.com/xProsek720/MSHP_CTF_2023_WriteUp/blob/main/media/ranking.png)
+
+### Special thanks to:
+
+- gynvael
+
+- Sekurak team
+
+- tTargiel (md WriteUp idea giver)
+
+- whole CTF competitors
+
+### By the way
+
+I had soooo much fun during this event! B)
